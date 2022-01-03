@@ -1,5 +1,11 @@
 Welcome to Git Tutorial.
 
+
 Change added by team mate for wi6 on remote master to check pull.
 
 change added by team maste for wi6 to check fetch
+
+Change: added by team mate for wi6 on remote master to check pull.
+
+Change : for bug 4 on local master to test rebase with conflicts.
+
